@@ -25,6 +25,8 @@ Esse projeto envolve teste de hipótese relacionada às preferências musicais d
 ## Imagens
 
 Tabela dos dados (https://1drv.ms/i/c/ddd772f521471537/EVSTYZRIFfBCuGOmd7HdSrMB4FlySL5JGDva_yqGJD9V4g?e=YfspLa)
+![projeto 2 - tabela](https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d)
+
 
 Hipótese (https://1drv.ms/i/c/ddd772f521471537/EUcsbWSMCZ9Co-7ZfwggxaABNuijPMXabyMD0iVcxNaoxw?e=Ya5y34)
 
