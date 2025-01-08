@@ -26,15 +26,15 @@ Esse projeto envolve teste de hipótese relacionada às preferências musicais d
 
 ### Tabela dos dados
 
-![projeto 2 - tabela width="50%" height="50%](https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d) 
+![projeto 2 - tabela width="30%" height="30%](https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d) 
 
 ### Hipótese 
 
-![projeto 2 - codigo](https://github.com/user-attachments/assets/8ad1943b-5bca-43e1-b3b4-0ac68194a4df)
+![projeto 2 - codigo width="30%" height="30%](https://github.com/user-attachments/assets/8ad1943b-5bca-43e1-b3b4-0ac68194a4df)
 
 ### Teste de hipótese
 
-![projeto 2 - hipotese](https://github.com/user-attachments/assets/6a0f914d-cb3f-4002-a1e9-5e07d2e4232a)
+![projeto 2 - hipotese width="30%" height="30%](https://github.com/user-attachments/assets/6a0f914d-cb3f-4002-a1e9-5e07d2e4232a)
 
 ## Resultados
 - Depois da análise dos dados, foi possível concluir que a atividade dos usuários em Springfield e Shelbyville depende do dia da semana, embora as cidades variem de maneiras diferentes
