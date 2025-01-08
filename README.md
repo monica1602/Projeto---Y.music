@@ -26,7 +26,7 @@ Esse projeto envolve teste de hipótese relacionada às preferências musicais d
 
 ### Tabela dos dados
 
-![projeto 2 - tabela](https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d) width="50%" height="50%
+![projeto 2 - tabela width="50%" height="50%](https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d) 
 
 ### Hipótese 
 
