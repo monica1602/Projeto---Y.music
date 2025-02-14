@@ -1,13 +1,13 @@
 # Projeto de Análise de dados Y.music
 
 ## Descrição do Projeto
-Esse projeto envolve teste de hipótese relacionada às preferências musicais de duas cidades. Para isso, foi feita uma análise dos dados de um serviço de streaming de música online para testar a hipótese apresentada e comparar o comportamento dos usuários de duas cidades. Isso envolveu uma análise dos dadso de um serviço de streaming real para comparar o comportamento dos usuários em Springfield e Shelbyville. 
+Este projeto envolve a realização de um teste de hipótese sobre as preferências musicais dos habitantes de duas cidades. Para isso, foi conduzida uma análise de dados provenientes de um serviço de streaming de música online, com o objetivo de verificar a hipótese formulada e comparar o comportamento dos usuários em Springfield e Shelbyville. A investigação baseou-se em dados reais da plataforma, permitindo identificar possíveis padrões e diferenças no consumo musical entre as duas localidades.
 
 ## As tarefas são:
-- Visão geral dos dados e observações
-- Pré-processamento dos dados e limpeza
-- Reunir os requisitos e preparar uma hipótese que precisa ser rejeitado ou se não é possível rejeitar
-- A hipótese que precisamos analisar é sobre a atividade dos usuários dependendo do dia da semana e da cidade
+- Visão geral dos dados e observações: Análise inicial dos dados coletados, identificando principais características, tendências e possíveis padrões no comportamento dos usuários das duas cidades.
+- Pré-processamento dos dados e limpeza: Tratamento dos dados brutos, incluindo remoção de inconsistências, tratamento de valores ausentes e padronização para garantir a qualidade da análise.
+- Definição da hipótese e critérios de teste: Formulação da hipótese estatística a ser avaliada, determinando se há evidências suficientes para rejeitá-la ou se não é possível rejeitá-la com base nos dados disponíveis.
+- Hipótese a ser analisada: Avaliação da influência do dia da semana na atividade dos usuários em cada cidade, verificando se há diferenças significativas no comportamento de consumo musical entre Springfield e Shelbyville.
 
 ## Descrição das colunas
 - 'user_id': identificar do usuário
@@ -19,8 +19,8 @@ Esse projeto envolve teste de hipótese relacionada às preferências musicais d
 - 'Day': dia da semana
 
 ## Ferramentas e Bbiliotecas utilizadas
-- Pyhton: Linguagem principal utilizada para análise
-- Pandas: Biblioteca para manipulação e análise de dados
+- Python: Linguagem principal utilizada para a análise de dados, oferecendo diversas bibliotecas e ferramentas para manipulação, processamento e visualização de informações.
+- Pandas: Biblioteca do Python especializada em manipulação e análise de dados, permitindo a organização eficiente de grandes volumes de informações por meio de estruturas como DataFrames e Series.
 
 ## Imagens
 
@@ -34,24 +34,23 @@ Esse projeto envolve teste de hipótese relacionada às preferências musicais d
 <img src="https://github.com/user-attachments/assets/34b6bdf0-828c-4ae2-8246-8e497fe8c0c8" alt="Projeto 2 - Tabela" width="300"/>
 
 ## Resultados
-- Depois da análise dos dados, foi possível concluir que a atividade dos usuários em Springfield e Shelbyville depende do dia da semana, embora as cidades variem de maneiras diferentes
-- As preferências musicais não variam muito ao longo da semana em Springfield e Shelbyville
-- É possível ver uma pequena diferença na ordem às segundas-feiras
-- Os resultados poderiam ser diferentes caso não houvesse valores ausentes
+- Conclusão da análise: A atividade dos usuários em Springfield e Shelbyville está influenciada pelo dia da semana, embora cada cidade apresente variações distintas em seus padrões de uso.
+- Preferências musicais ao longo da semana: As escolhas musicais dos usuários não apresentam mudanças significativas ao longo da semana em ambas as cidades.
+- Diferença nas segundas-feiras: Foi observada uma pequena diferença na ordem das preferências musicais especificamente às segundas-feiras.
+- Impacto de valores ausentes: Os resultados da análise poderiam ter sido diferentes caso não houvesse valores ausentes nos dados, o que ressalta a importância da qualidade e completude das informações para a precisão das conclusões.
 
 ## Aprendizados
-- Análise de dados
-- Teste de hipótese
-- Qualidade dos dados
-- Tratar os dados modificando tipos de coluna, nome da coluna, valores ausentes, valores duplicados
-- Pré-processamento de dados
-
+- Teste de hipótese: Aplicação de métodos estatísticos para verificar se há diferenças significativas na atividade dos usuários entre Springfield e Shelbyville, considerando o dia da semana.
+- Qualidade dos dados: Avaliação da completude, consistência e integridade dos dados para garantir a confiabilidade dos resultados.
+- Tratamento de dados: Modificação de tipos de colunas, padronização de nomes, remoção ou imputação de valores ausentes e eliminação de valores duplicados para assegurar que os dados estejam estruturados corretamente.
+- Pré-processamento de dados: Etapa essencial que envolve a limpeza, transformação e organização dos dados, preparando-os para análises estatísticas e extração de insights.
+  
 ## Contexto real
-- Novas empresas que desejam entender mais o mercado que irão se inserir
-- Empresas que querem entender melhor os dados da empresa
-- Empresas que desejam lançar um novo produto ou serviço e precisam entender melhor o mercado
-- Governos que desejam entender melhor o comportamento de sua população
-Obs: pode ser utilizado para outros produtos ou serviços mudnaod apenas os dados, dias da semana, local.
+- Novas empresas que desejam entender o mercado: Negócios recém-criados que buscam insights sobre o setor em que irão atuar, identificando tendências e oportunidades.
+- Empresas que querem compreender melhor seus próprios dados: Organizações que desejam extrair valor das informações internas para otimizar operações, melhorar a experiência do cliente e aumentar a eficiência.
+- Empresas que planejam lançar um novo produto ou serviço: Negócios que precisam de uma análise detalhada do mercado e do comportamento do consumidor antes de introduzir uma nova oferta.
+- Governos analisando o comportamento da população: Órgãos públicos que utilizam dados para entender padrões de consumo, mobilidade, cultura e outros aspectos relevantes para políticas públicas.
+- Adaptabilidade: A metodologia pode ser aplicada a diferentes produtos, serviços e setores, bastando ajustar os dados analisados, os períodos de observação e a localização geográfica.
 
 ## Como executar o Projeto
 - Clone o repositório
