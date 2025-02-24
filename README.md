@@ -25,13 +25,13 @@ Este projeto envolve a realização de um teste de hipótese sobre as preferênc
 ## Imagens
 
 ### Tabela dos dados
-<img src="https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d" alt="Projeto 2 - Tabela" width="500"/>
+<img src="https://github.com/user-attachments/assets/ce7a690c-16c6-4d3e-aa5b-beb21187462d" alt="Projeto 2 - Tabela" width="800"/>
 
-### Hipótese 
-<img src="https://github.com/user-attachments/assets/8ad1943b-5bca-43e1-b3b4-0ac68194a4df" alt="Projeto 2 - Tabela" width="500"/>
+### Código - Hipótese 
+<img src="https://github.com/user-attachments/assets/8ad1943b-5bca-43e1-b3b4-0ac68194a4df" alt="Projeto 2 - Tabela" width="1000"/>
 
-### Teste de hipótese
-<img src="https://github.com/user-attachments/assets/34b6bdf0-828c-4ae2-8246-8e497fe8c0c8" alt="Projeto 2 - Tabela" width="300"/>
+### Código - Teste de hipótese
+<img src="https://github.com/user-attachments/assets/34b6bdf0-828c-4ae2-8246-8e497fe8c0c8" alt="Projeto 2 - Tabela" width="1000"/>
 
 ## Resultados
 - Conclusão da análise: A atividade dos usuários em Springfield e Shelbyville está influenciada pelo dia da semana, embora cada cidade apresente variações distintas em seus padrões de uso.
