@@ -43,10 +43,10 @@ Este projeto envolve a realização de um teste de hipótese sobre as preferênc
 - Teste de hipótese: Aplicação de métodos estatísticos para verificar se há diferenças significativas na atividade dos usuários entre Springfield e Shelbyville, considerando o dia da semana.
 - Qualidade dos dados: Avaliação da completude, consistência e integridade dos dados para garantir a confiabilidade dos resultados.
 - Tratamento de dados: Modificação de tipos de colunas, padronização de nomes, remoção ou imputação de valores ausentes e eliminação de valores duplicados para assegurar que os dados estejam estruturados corretamente.
-- Pré-processamento de dados: Etapa essencial que envolve a limpeza, transformação e organização dos dados, preparando-os para análises estatísticas e extração de insights.
+- Pré-processamento de dados: Etapa essencial que envolve a limpeza, transformação e organização dos dados, preparando-os para análises estatísticas e descoberta de padrões.
   
 ## Contexto real
-- Novas empresas que desejam entender o mercado: Negócios recém-criados que buscam insights sobre o setor em que irão atuar, identificando tendências e oportunidades.
+- Novas empresas que desejam entender o mercado: Negócios recém-criados em busca de descobertas estratégicas sobre o setor em que irão atuar, identificando tendências e oportunidades.
 - Empresas que querem compreender melhor seus próprios dados: Organizações que desejam extrair valor das informações internas para otimizar operações, melhorar a experiência do cliente e aumentar a eficiência.
 - Empresas que planejam lançar um novo produto ou serviço: Negócios que precisam de uma análise detalhada do mercado e do comportamento do consumidor antes de introduzir uma nova oferta.
 - Governos analisando o comportamento da população: Órgãos públicos que utilizam dados para entender padrões de consumo, mobilidade, cultura e outros aspectos relevantes para políticas públicas.
