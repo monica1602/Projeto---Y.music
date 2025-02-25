@@ -1,4 +1,4 @@
-# Projeto de Análise de dados Y.music
+# Projeto de Análise de dados - Y.music
 
 ## Descrição do Projeto
 Este projeto envolve a realização de um teste de hipótese sobre as preferências musicais dos habitantes de duas cidades. Para isso, foi conduzida uma análise de dados provenientes de um serviço de streaming de música online, com o objetivo de verificar a hipótese formulada e comparar o comportamento dos usuários em Springfield e Shelbyville. A investigação baseou-se em dados reais da plataforma, permitindo identificar possíveis padrões e diferenças no consumo musical entre as duas localidades.
